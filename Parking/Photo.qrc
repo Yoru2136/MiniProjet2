@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Photo">
+        <file>D:/Utilisateurs/Images/Info.jpg</file>
+        <file>D:/Utilisateurs/Images/Noir.png</file>
+    </qresource>
+    <qresource prefix="/P">
+        <file>D:/Utilisateurs/Images/info2.png</file>
+    </qresource>
+</RCC>
